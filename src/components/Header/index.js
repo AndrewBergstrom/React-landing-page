@@ -1,6 +1,6 @@
 
 import React, { useState } from "react";
-import Logo from "./../../assets/tailwind-css-logo.svg";
+import Logo from "./../../assets/apple-touch-icon.png";
 import { Link } from "react-router-dom";
 
 const Header = ({ ...otherProps }) => {
